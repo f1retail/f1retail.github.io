@@ -258,3 +258,34 @@ a.glo{
    background-position: 0 0;
    color:#fff;
    }
+.ff{
+	text-decoration: none;
+	font-family: 'Quicksand', sans-serif;
+	margin: auto;
+	padding-left: 7px;
+	padding-top: 7px;
+	color: azure;
+	opacity: 0.5;
+}
+li {
+	list-style-type: none;
+  }
+a.glov{
+	color:#ffffff;
+	padding: 10px 20px;
+	width:100px;
+	text-decoration:none;
+	text-align:center;
+	margin:20px auto;
+	display: block;
+	background-image: linear-gradient(to left,transparent,transparent 50%,#ffffff 50%,#ffffff);
+	background-position: 100% 0;
+	background-size: 200% 100%;
+	transition: all .25s ease-in;
+	font: 400 18px tahoma;
+	border: 1px solid #ffffff;
+}
+a.glov:hover {
+   background-position: 0 0;
+   color:#fff;
+}
